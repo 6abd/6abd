@@ -14,6 +14,8 @@
 
 - 💬 Ask me about **Python**
 
+- 💵 Open to commissions
+
 - 📫 How to reach me **digitalizedsnake@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
