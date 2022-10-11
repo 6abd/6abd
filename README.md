@@ -20,6 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalized-snake&theme=github_dark&show_icons=true&locale=en" alt="digitalized-snake" /></p>
 
-Reach me at :
-📫 **digitalizedsnake@gmail.com**
-👾 **[TheMaestro#0219](https://discordapp.com/users/867139719572881418)**
+
+<h3 align="left">📫 digitalizedsnake@gmail.com</h3>
+<a href="https://discordapp.com/users/867139719572881418">👾 TheMaestro#0219</a>
+
