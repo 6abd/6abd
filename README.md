@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalized-snake&repo=SteamBot&theme=github_dark)](https://github.com/digitalized-snake/SteamBot)
 
 
-- 🌱 I’m currently learning **Disnake, Django, C++**
+- 🌱 I’m currently learning **Disnake, Rust, C++**
 - 👨‍💻 Many of my projects are available here
 - 💬 Ask me about **Python**
 - 💵 Open to commissions
