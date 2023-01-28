@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Disnake, Golang, C++**
 - 💬 Ask me about **Python**
-- 💵 Open to commissions
 
 
 <h3 align="left">Languages and Tools:</h3>
