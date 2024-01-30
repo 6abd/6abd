@@ -1,24 +1,26 @@
-<h1 align="center">Hi 👋, I'm digitalized-snake!</h1>
-<h3 align="center">A passionate Python programmer</h3>
+```py
+class Me:
+    def __init__(self):
+        self.user = 'maestro'
+        self.web = 'https://feds.lol/maestro'
+        self.tg = '@maestrohq'
+        self.code = {
+            'langs': ['Python', 'C++']
+            'tools': ['git', 'GitHub', 'disnake', 'Selenium', 'APIs', 'etc.'],
+        }
+        
+    def __str__(self):
+        return self.user
 
 
-- 🔭 I’m currently working on: **SteamBot**
+if __name__ == '__main__':
+    me = Me()
+```
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalized-snake&repo=SteamBot&theme=github_dark)](https://github.com/digitalized-snake/SteamBot)
-
-
-- 🌱 I’m currently learning **Disnake, Golang, C++**
-- 💬 Ask me about **Python**
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://guide.disnake.dev/public/disnake-logo.png" alt="disnake" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Requests_Python_Logo.png/374px-Requests_Python_Logo.png" alt="requests" width="40 height="30" /> <img src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67" alt="pygame" width="80" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>  </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=digitalized-snake&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="digitalized-snake" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalized-snake&theme=github_dark&show_icons=true&locale=en" alt="digitalized-snake" /></p>
+![digitalized-snake's Stats](https://github-readme-stats.vercel.app/api?username=digitalized-snake&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![digitalized-snake's Streak](https://github-readme-streak-stats.herokuapp.com/?user=digitalized-snake&theme=gotham&hide_border=true)
 
 
 <h3 align="left">📫 digitalizedsnake@gmail.com</h3>
-<a href="https://discordapp.com/users/867139719572881418">👾 TheMaestro#0219</a>
+<a href="https://discordapp.com/users/867139719572881418">👾</a>
 
