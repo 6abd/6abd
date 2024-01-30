@@ -16,6 +16,7 @@ class Me:
 if __name__ == '__main__':
     me = Me()
 ```
+
 <a href="https://github.com/digitalized-snake">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digitalized-snake&theme=gotham&hide_border=true" width="49.6%"/>
 </a>
