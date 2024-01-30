@@ -5,8 +5,8 @@ class Me:
         self.web = 'https://feds.lol/maestro'
         self.email = 'digitalizedsnake@gmail.com'
         self.code = {
-            'langs': ['Python', 'C++']
-            'tools': ['git', 'GitHub', 'disnake', 'Selenium', 'APIs', 'etc.'],
+            'langs': ['Python', 'C++'],
+            'tools': ['git', 'GitHub', 'disnake', 'Selenium', 'APIs', 'etc.']
         }
         
     def __str__(self):
