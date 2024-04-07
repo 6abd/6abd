@@ -2,7 +2,6 @@
 class Me:
     def __init__(self):
         self.user = 'nedeem'
-        self.web = 'https://feds.lol/maestro'
         self.email = 'digitalizedsnake@gmail.com'
         self.code = {
             'langs': ['Python', 'C++', 'Swift'],
