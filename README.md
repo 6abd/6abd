@@ -1,11 +1,11 @@
 ```py
 class Me:
     def __init__(self):
-        self.user = 'maestro'
+        self.user = 'nedeem'
         self.web = 'https://feds.lol/maestro'
         self.email = 'digitalizedsnake@gmail.com'
         self.code = {
-            'langs': ['Python', 'C++'],
+            'langs': ['Python', 'C++', 'Swift'],
             'tools': ['git', 'GitHub', 'disnake', 'Selenium', 'APIs', 'etc.']
         }
         
@@ -16,7 +16,3 @@ class Me:
 if __name__ == '__main__':
     me = Me()
 ```
-
-<a href="https://github.com/digitalized-snake">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digitalized-snake&theme=gotham&hide_border=true" width="49.6%"/>
-</a>
